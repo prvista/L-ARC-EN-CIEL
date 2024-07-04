@@ -141,13 +141,13 @@
   .header{
     background-color: var(--clr-light);
     padding: 1rem 0;
-    position: fixed;
+    /* position: fixed; */
     width: 100%;
     z-index: 999;
     font-family: var(--font-primary);
     border-bottom: 1px solid rgb(225, 225, 225);
     border-top: 1px solid rgb(225, 225, 225);
-    margin-top: .5rem;
+    margin-top: 1rem;
   }
 
   .header__wrapper{
